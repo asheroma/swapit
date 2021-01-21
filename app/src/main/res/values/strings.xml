@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SWAPiT</string>
+    <string name="find_discover_choose_and_buy_anything_online">Find, Discover, Choose and Buy Anything Online</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="join_now">Join Now</string>
+    <string name="todo">TODO</string>
+    <string name="find_discover_choose_and_swap_anything_online" />
+</resources>
